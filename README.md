@@ -2,7 +2,7 @@
 
 Requisitos: Node.js 
 
-Challenge link:
-https://www.hackerrank.com/challenges/drawing-book/problem
-https://www.hackerrank.com/challenges/compare-the-triplets/problem
+Challenge link:<br>
+https://www.hackerrank.com/challenges/drawing-book/problem<br>
+https://www.hackerrank.com/challenges/compare-the-triplets/problem<br>
 https://www.hackerrank.com/challenges/two-characters/problem
